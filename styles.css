@@ -1,0 +1,30 @@
+h1,p{
+    text-align: center;
+  
+}
+.header{
+    font-size: 5rem;
+    
+    
+}
+
+.jumbotron{
+    margin: auto;
+    background-color: darksalmon;
+}
+body{
+    background-image: -webkit-linear-gradient(top, white, #84a9ac);
+    background-image: -moz-linear-gradient(top, white, #84a9ac);
+    background-image: -ms-linear-gradient(top, white, #84a9ac);
+    background-image: -o-linear-gradient(top, white, #84a9ac);
+    background-image: linear-gradient(to bottom, white, #84a9ac);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+}
+.w-25{
+    display: inline-block;
+    margin-left: 75px;
+}
+.i{
+        
+}
